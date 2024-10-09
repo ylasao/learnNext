@@ -1,4 +1,5 @@
 import React from "react";
+import { Suspense } from "react";
 
 const Page = () => {
   return (
