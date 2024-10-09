@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.title {
+  text-align: center;
+  font-size: 5rem;
+  color: green;
+}
